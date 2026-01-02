@@ -1,5 +1,5 @@
 # ===== PYTORCH (Python 3.13 compatible) =====
-torch==2.5.1
+torch==2.6.0
 torchvision==0.21.0
 
 # ===== YOLO / Ultralytics =====
