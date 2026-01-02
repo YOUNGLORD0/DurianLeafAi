@@ -4,7 +4,7 @@ torchvision==0.20.1
 torchaudio==2.5.1
 
 # ===== YOLO / Ultralytics =====
-ultralytics==8.1.0
+ultralytics
 
 # ===== FLASK BACKEND =====
 Flask==3.0.3
@@ -17,4 +17,4 @@ reportlab==4.2.0
 
 # ===== UTILITIES =====
 numpy==1.26.4
-opencv-python==4.10.0.84
+opencv-python-headless==4.10.0.84
