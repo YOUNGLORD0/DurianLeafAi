@@ -1,12 +1,21 @@
-torch==2.2.2
-torchvision==0.17.2
-ultralytics==8.1.0
-
+# ---- Server ----
 Flask==3.0.3
 gunicorn==22.0.0
 
+# ---- YOLO ----
+ultralytics==8.1.0
+
+# ---- PyTorch CPU (Python 3.11) ----
+torch==2.2.2
+torchvision==0.17.2
+
+# ---- Utils ----
 Pillow==10.4.0
 reportlab==4.2.0
-
 numpy==1.26.4
+
+# ---- OpenCV headless (NO libGL) ----
 opencv-python-headless==4.10.0.84
+
+# ---- PDF ----
+pdfkit==1.0.0

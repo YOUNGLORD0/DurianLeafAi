@@ -62,12 +62,12 @@ CLASS_NAMES = {
 }
 
 CLASS_DESC = {
-    "Algal": "Penyakit akibat alga yang menyebabkan bercak kehijauan/abu kusam.",
-    "Blight": "Daun mengering dari tepi, bercak melebar coklat/kehitaman.",
-    "Lcolletotrichum": "Bercak coklat gelap, kadang melingkar, disebabkan jamur Colletotrichum.",
-    "Healthy": "Daun berwarna hijau merata, tidak ada bercak atau gejala penyakit.",
-    "Phomopis": "Bercak nekrotik tidak beraturan dengan pinggiran kuning (halo).",
-    "Rhizoctonia": "Busuk daun disebabkan jamur Rhizoctonia, bercak besar dan tidak teratur.",
+    "algal": "Penyakit akibat alga yang menyebabkan bercak kehijauan/abu kusam.",
+    "blight": "Daun mengering dari tepi, bercak melebar coklat/kehitaman.",
+    "lcolletotrichum": "Bercak coklat gelap, kadang melingkar, disebabkan jamur Colletotrichum.",
+    "healthy": "Daun berwarna hijau merata, tidak ada bercak atau gejala penyakit.",
+    "phomopis": "Bercak nekrotik tidak beraturan dengan pinggiran kuning (halo).",
+    "rhizoctonia": "Busuk daun disebabkan jamur Rhizoctonia, bercak besar dan tidak teratur.",
 }
 
 
