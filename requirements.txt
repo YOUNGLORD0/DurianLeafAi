@@ -17,3 +17,4 @@ reportlab==4.2.0
 # ===== UTILITIES =====
 numpy==2.1.3
 opencv-python-headless==4.10.0.84
+opencv-python==0.0.0
