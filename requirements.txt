@@ -1,7 +1,7 @@
-# ===== PYTORCH CPU (Railway) =====
-torch==2.2.2
-torchvision==0.17.2
-torchaudio==2.2.2
+# ===== PYTORCH (Python 3.13 compatible) =====
+torch==2.5.1
+torchvision==0.20.1
+torchaudio==2.5.1
 
 # ===== YOLO / Ultralytics =====
 ultralytics==8.1.0
